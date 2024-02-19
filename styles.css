@@ -1,0 +1,32 @@
+.selected-value {
+  height: 3em;
+  width: 10em;
+}
+.get-input {
+  height: 2.8em;
+  width: 30em;
+}
+.btn-select {
+  width: 15em;
+  height: 3em;
+}
+.container {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+}
+.container2 {
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub-container {
+  margin-top: 3em;
+}
+.container2 {
+  gap: 20px;
+}
+.the-movies {
+  text-align: center;
+}
