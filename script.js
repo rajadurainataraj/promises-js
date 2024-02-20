@@ -29,6 +29,7 @@ ${starData
 `
 
 btn1.addEventListener('click', async () => {
+  getMovies2.innerText = ''
   try {
     const apiUrl = baseUrl + selectOption.value + '/' + getInputValue.value
 
